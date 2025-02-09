@@ -1,0 +1,14 @@
+-1,1,0,0,0 Electron
+1,-1,0,0,0 Anti_Electron
+0,1,0,0,0 Electron_Neutrino
+0,-1,0,0,0 Anti_Electron_Neutrino
+-1,0,1,0,0 Muon
+1,0,-1,0,0 Anti_Muon
+0,0,1,0,0 Muon_Neutrino
+0,0,-1,0,0 Anti_Muon_Neutrino
+-1,0,0,1,0 Tauon
+1,0,0,-1,0 Anti_Tauon
+0,0,0,1,0 Tauon_Neutrino
+0,0,0,-1,0 Anti_Tauon_Neutrino
+1,0,0,0,1 proton
+0,0,0,0,1 neutron
